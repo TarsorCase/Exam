@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TestDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TestDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDemo/1.0.0": {
+      "type": "project",
+      "path": "../TestDemo/TestDemo.csproj",
+      "msbuildProject": "../TestDemo/TestDemo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TestDemo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/gerard/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/Calculadora/Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/Calculadora/Calculadora.csproj",
+      "packagesPath": "/home/gerard/.nuget/packages/",
+      "outputPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/Calculadora/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/gerard/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo/TestDemo.csproj": {
+              "projectPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo/TestDemo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.3, 8.0.3]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
