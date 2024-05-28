@@ -23,6 +23,28 @@ var result = Mathematics.Force(num1, num2);
 Assert.Equal(expectedResult, result);  
 
 }  
+
+[Fact]  
+
+public void ForceTestinvalid() {  
+
+//Arrange  
+
+var num1 = 'a'; 
+
+var num2 = 'a';  
+
+var expectedResult = 36;  
+
+//Act  
+
+var result = Mathematics.Force(num1, num2);  
+
+//Assert  
+
+Assert.Equal(expectedResult, result);  
+
+}  
   
 [Fact]  
 
@@ -43,7 +65,29 @@ var result = Mathematics.Work(num1, num2);
 //Assert  
 
 Assert.Equal(expectedResult, result);  
-}  
+} 
+
+[Fact]  
+
+public void WorkTestInvalid() { 
+
+//Arrange  
+  
+var num1 = 'b';  
+
+var num2 = 'b';  
+
+var expectedResult = 10;  
+
+//Act  
+
+var result = Mathematics.Work(num1, num2);  
+
+//Assert  
+
+Assert.Equal(expectedResult, result);  
+}
+
 [Fact]  
 
 public void Kinetic() { 
@@ -65,4 +109,26 @@ var result = Mathematics.Kinetic(num1, num2);
 Assert.Equal(expectedResult, result,3);  
 
 }  
+
+[Fact]  
+
+public void Kineticinvalid() { 
+
+//Arrange  
+  
+var num1 = 'a';  
+
+var num2 = 'a';  
+
+var expectedResult = 62.5;
+
+//Act  
+
+var result = Mathematics.Kinetic(num1, num2);  
+
+//Assert  
+
+Assert.Equal(expectedResult, result,3);  
+
+}
 }
