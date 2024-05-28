@@ -2,68 +2,67 @@ namespace TestDemo.Tests;
 
 public class UnitTest1
 {
-  [Fact]  
+[Fact]  
 
-  public void ForceTest() {  
+public void ForceTest() {  
 
-  //Arrange  
+//Arrange  
 
-  var num1 = 6; 
+var num1 = 6; 
 
-  var num2 = 6;  
+var num2 = 6;  
 
-  var num2 = 36;  
+var expectedResult = 36;  
 
-  //Act  
+//Act  
 
-  var result = Mathematics.Force(num);  
+var result = Mathematics.Force(num1, num2);  
 
-  //Assert  
+//Assert  
 
-  Assert.Equal(expectedResult, result);  
+Assert.Equal(expectedResult, result);  
 
-  }  
-  [Fact]  
-
-  public void AdditionOfNumber() { 
-
-  //Arrange  
+}  
   
-  var num1 = 5;  
+[Fact]  
 
-  var num2 = 2;  
+public void WorkTest() { 
 
-  var expectedResult = 10;  
+//Arrange  
+  
+var num1 = 5;  
 
-  //Act  
+var num2 = 2;  
 
-  var result = Mathematics.Work(num1, num2);  
+var expectedResult = 10;  
 
-  //Assert  
+//Act  
 
-  Assert.Equal(expectedResult, result);  
+var result = Mathematics.Work(num1, num2);  
 
-  }  
+//Assert  
+
+Assert.Equal(expectedResult, result);  
+}  
+[Fact]  
+
+public void Kinetic() { 
+
+//Arrange  
+  
+var num1 = 5;  
+
+var num2 = 5;  
+
+var expectedResult = 62.5;
+
+//Act  
+
+var result = Mathematics.Kinetic(num1, num2);  
+
+//Assert  
+
+Assert.Equal(expectedResult, result);  
+
+}  
 }
-  [Fact]  
-
-  public void Kinetic() { 
-
-  //Arrange  
-  
-  var num1 = 5;  
-
-  var num2 = 5;  
-
-  var expectedResult = 62.5;
-
-  //Act  
-
-  var result = Mathematics.Kinetic(num1, num2);  
-
-  //Assert  
-
-  Assert.Equal(expectedResult, result);  
-
-  }  
-
