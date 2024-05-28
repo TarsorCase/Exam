@@ -16,7 +16,7 @@ public static class Mathematics
  }
  public static double Kinetic(double num1, double num2) {  
  
- double ans3 = num1 * num2;
+ double ans3 = (0.5* num1 * (num2 * num2));
 
  return ans3;
  }

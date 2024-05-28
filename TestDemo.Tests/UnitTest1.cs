@@ -62,7 +62,7 @@ var result = Mathematics.Kinetic(num1, num2);
 
 //Assert  
 
-Assert.Equal(expectedResult, result);  
+Assert.Equal(expectedResult, result,3);  
 
 }  
 }
