@@ -2,8 +2,16 @@
 
 public static class Mathematics
 {
- public static bool IsEvenNumber(int num) {  
+ public static double Force(double num1, double num2) {  
  
- return num % 2 == 0 ? true : false;
+ return num1 * num2;
+ }
+ public static double Work(double num1, double num2) {  
+ 
+ return num1 * num2;
+ }
+ public static double Kinetic(double num1, double num2) {  
+ 
+ return (0. 5 * num1 * (num2 * num2));
  }
 }
