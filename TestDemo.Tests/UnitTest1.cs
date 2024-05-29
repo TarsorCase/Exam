@@ -34,7 +34,7 @@ var expectedResult = 5000;
 
 //Act  
 
-var result = Mathematics.Work(num1);  
+var result = Mathematics.Kilometros(num1);  
 
 //Assert  
 
@@ -55,7 +55,7 @@ var expectedResult = 28.85;
 
 //Act  
 
-var result = Mathematics.Test(num1, num2);  
+var result = Mathematics.Edificio(num1, num2);  
 
 //Assert  
 
