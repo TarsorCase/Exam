@@ -24,17 +24,19 @@ Assert.Equal(expectedResult, result, 3);
 
 [Fact]  
 
-public void KilometrosTest() { 
+public void LoteTest() { 
 
 //Arrange  
   
 var num1 = 5;    
 
-var expectedResult = 5000;  
+var num2 = 5;    
+
+var expectedResult = 25;  
 
 //Act  
 
-var result = Mathematics.Kilometros(num1);  
+var result = Mathematics.Lote(num1,num2);  
 
 //Assert  
 

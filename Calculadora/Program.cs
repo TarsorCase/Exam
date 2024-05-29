@@ -2,7 +2,8 @@
 using TestDemo;
 
   Console.WriteLine("\n***** CALCULADORA *****");
-    double metros;
+    double ancho;
+    double largo;
     double radio;
     double horizontal;
     double alpha;
@@ -13,10 +14,12 @@ using TestDemo;
     double ans1 = Mathematics.Esfera(radio);
     Console.WriteLine($"El volumen es: {ans1}"); 
 
-    Console.WriteLine("Calcular el equivalente en metros\n");
-    Console.WriteLine("Ingrese los kilometros: ");
-    metros = Convert.ToDouble(Console.ReadLine());
-    double ans2 = Mathematics.Kilometros(metros);
+    Console.WriteLine("Calcular el area de un lote\n");
+    Console.WriteLine("Ingrese el ancho: ");
+    ancho = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Ingrese el largo: ");
+    largo = Convert.ToDouble(Console.ReadLine());
+    double ans2 = Mathematics.Lote(ancho,largo);
     Console.WriteLine($"Son {ans2} kilometros"); 
 
     Console.WriteLine("Calcular la altura de un edificio\n");

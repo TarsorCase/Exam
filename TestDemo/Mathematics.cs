@@ -8,9 +8,9 @@ public static class Mathematics
  
  return ans;
  }
- public static double Kilometros(double num1) {  
+ public static double Lote(double num1, double num2) {  
 
- double ans2 = num1 * 1000;
+ double ans2 = num1 * num2;
  
  return ans2;
  }
