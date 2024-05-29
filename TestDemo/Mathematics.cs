@@ -4,7 +4,7 @@ public static class Mathematics
 {
  public static double Esfera(double num1) { 
   
- double ans = 4/3 * 3.412 * num1;
+ double ans = (4.0/3.0) * Math.PI * Math.Pow(num1, 3);
  
  return ans;
  }
