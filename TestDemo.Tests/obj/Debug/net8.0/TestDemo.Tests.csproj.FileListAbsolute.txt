@@ -100,3 +100,10 @@
 /home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.pdb
 /home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.genruntimeconfig.cache
 /home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/obj/Debug/net8.0/ref/TestDemo.Tests.dll
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_TestDemo.Tests
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.csproj.AssemblyReference.cache
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.AssemblyInfoInputs.cache
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.AssemblyInfo.cs
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.csproj.CoreCompileInputs.cache
+/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/Debug/net8.0/TestDemo.Tests.sourcelink.json

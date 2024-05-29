@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+h2xRXtTwPftx+NjWeAUQ+CXCDRfUpv2kH8Rup0wCbunsSB9I03NN4E7pVZqrvjiUfDOYN9Sz3DezeTyCxdbg==",
+  "dgSpecHash": "AQIzSldHbT1ZWtEXL2LmEHwiyiIdUSyPW/atf9qjNuzSC3uEdFxVTkGC8JKUeHHL9PIVaxsMT6CFbN3yuo8aOQ==",
   "success": true,
-  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/Calculadora/Calculadora.csproj",
+  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/Calculadora/Calculadora.csproj",
   "expectedPackageFiles": [
     "/home/gerard/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],

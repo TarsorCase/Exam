@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X0K8FYDVDz1N8BaUgqx8xMHz31vkgHRhqIQ9f+WWvVNR+YGXrf8k7vuSlQNfU37D5A11TUHHY7tVPoTZxwy/uQ==",
+  "dgSpecHash": "hIBgiwQt58LT9sqqliZcJozd+/wX34RkYOYQHq1fUT2KvysZWx0Yo+ZCFgZiiUXWAZt079l6kmb1cNQs1x1O7A==",
   "success": true,
-  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/TestDemo.Tests.csproj",
+  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/TestDemo.Tests.csproj",
   "expectedPackageFiles": [
     "/home/gerard/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/gerard/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculadora
-build_property.ProjectDir = /home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/Calculadora/
+build_property.ProjectDir = /home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/Calculadora/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

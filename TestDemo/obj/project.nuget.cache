@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "06eg73cQldbrGbjN91N8r47bITcaMFVwevIRDBla3z71eQtjr8ukMqYf/0Ll/OLCxMGuCLKs229E/bRHOgRioQ==",
+  "dgSpecHash": "JnhCR343GcetahWC7CWNHMyHRpvDaVsqGB8eOkrP7QkCIryq0siA7aDiOaVAHI0J9G9CVyTsLSa3FbRxMYDmNA==",
   "success": true,
-  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo/TestDemo.csproj",
+  "projectFilePath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo/TestDemo.csproj",
   "expectedPackageFiles": [
     "/home/gerard/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],

@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/TestDemo.Tests.csproj",
+      "projectUniqueName": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/TestDemo.Tests.csproj",
       "projectName": "TestDemo.Tests",
-      "projectPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/TestDemo.Tests.csproj",
+      "projectPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/TestDemo.Tests.csproj",
       "packagesPath": "/home/gerard/.nuget/packages/",
-      "outputPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo.Tests/obj/",
+      "outputPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gerard/.nuget/NuGet/NuGet.Config"
@@ -5558,8 +5558,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo/TestDemo.csproj": {
-              "projectPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/Exam/Exam/TestDemo/TestDemo.csproj"
+            "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo/TestDemo.csproj": {
+              "projectPath": "/home/gerard/Desktop/UCB/UCB/Fundamentos de Software/yes/Exam/TestDemo/TestDemo.csproj"
             }
           }
         }
