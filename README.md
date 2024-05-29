@@ -1,5 +1,5 @@
 # Exam
-Esta es una calculadora la cual su fincion es:  
+Esta es una calculadora la cual su funcion es:  
 
     Calcular el volumen de una esfera. 
 
