@@ -25,4 +25,4 @@ using TestDemo;
     Console.WriteLine("Ingrese el grado: ");
     alpha = Convert.ToDouble(Console.ReadLine());
     double ans3 = Mathematics.Edificio(horizontal, alpha);
-    Console.WriteLine($"La energia cinetica es: {ans3}"); 
+    Console.WriteLine($"La altura del edificio es: {ans3}"); 

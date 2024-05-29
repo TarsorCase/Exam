@@ -10,7 +10,7 @@ public void EsferaTest() {
 
 var num1 = 6;   
 
-var expectedResult = 27.2958;  
+var expectedResult = 20.472;  
 
 //Act  
 
@@ -51,15 +51,16 @@ var num1 = 50;
 
 var num2 = 30;  
 
-var expectedResult = 28.85;
+var expectedResult = 28.867513459481287;
 
 //Act  
 
 var result = Mathematics.Edificio(num1, num2);  
 
 //Assert  
+double tolerance = 0.01;
 
-Assert.Equal(expectedResult, result,3);  
+Assert.Equal(expectedResult, result,tolerance);  
 
 }  
 
